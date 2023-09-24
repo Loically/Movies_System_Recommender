@@ -123,7 +123,7 @@ The usage of accuracy measures in this recommendation system is highly useful an
 The formula for determining accuracy is straightforward:
 
 $$
-Precision = \frac{\text{Jumlah Film yang Relevan}}{\text{Jumlah N Rekomendasi}}
+Precision = \frac{\text{Number of Relevant Movies}}{\text{Total N Recommendations}}
 $$
 
 The accuracy measure ensures that the recommendations supplied are not only many, but also of high significance. To prevent making suggestions that are mostly conflicting with user preferences.
